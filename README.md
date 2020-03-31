@@ -7,5 +7,4 @@ open file directly or [(click here )](https://github.com/amirkhan1092/python-ass
 
 
 ```
-submit assignment before deadline 
-```
+submit assignment before dead
